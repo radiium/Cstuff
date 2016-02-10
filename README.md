@@ -1,6 +1,4 @@
-# Stuff
-## some stuff for training and fn
-
+## some stuff for training and fun
 
 ### ceasar/
 **test encrypt decrypt caesar code :**
