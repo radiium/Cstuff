@@ -1,7 +1,7 @@
 # Cstuff
-some piece of code for fun
+some stuff for training and fn
 
 
 -ceasar/
 
-encrypt decrypt caesar code
+test encrypt decrypt caesar code
