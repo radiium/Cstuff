@@ -1,7 +1,6 @@
 
 # some stuff for training and fun
 ###written in C.
-<br/>
 ### Use
 * compile with gcc.
 * run in your favorite terminal.
